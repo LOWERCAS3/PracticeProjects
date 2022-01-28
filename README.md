@@ -7,4 +7,4 @@ Future Projects ideas:
 Buffalo Crime analysis data set present at data.world
 
 (Web Development)
-Angular complete web app project(decide the topic)
+Angular complete web app project(yet to decide the topic)
